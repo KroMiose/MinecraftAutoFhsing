@@ -1,0 +1,1 @@
+pip install pyautogui keyboard Pillow pywin32 pyglet -i https://mirrors.aliyun.com/pypi/simple/
